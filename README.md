@@ -1,17 +1,15 @@
 # HarshitChhipa.com
 
-    This is an ongoing thing that I am building it will just not be a simple portfolio.
+# Phases
+    
+    1 Design finalization and a simple proto with Adobe XD.
+    
+    2 Code base Architecture and Folder structuring and base setup
 
-    There are going to a lot of new things in this portfolio that will be just revealed one by one.
+    3 I have broke down the UI in Component and will be creating components one by one.
 
-    This things is going to fully OPEN SOURCE.
+# A THOUGHT
 
-# Inspiration
+    Once a colleague said 
 
-    As a Frontend Developer this was on my mind since a long time and now its the time to implement it.
-
-# Design
-
-The Design is Inspired by [Brittany Chiang] (https://brittanychiang.com/).
-
-![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png)
+![This](./Design/Images/ThoughtsOnCode.jpg)
